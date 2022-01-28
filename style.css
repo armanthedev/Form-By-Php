@@ -1,0 +1,24 @@
+.content-wrapper {
+  margin: 0 auto;
+  width: 960px;
+}
+.card-title {
+  background-color: brown;
+  text-align: center;
+  color: #fff;
+}
+.card {
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+.image img {
+  width: 200px;
+  height: 200px;
+}
+
+.card-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
